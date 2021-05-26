@@ -1,2 +1,3 @@
 hi
 iam jeevani creating a colors project
+ iam checking weather the project is running or not
